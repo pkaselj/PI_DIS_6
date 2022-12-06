@@ -1,0 +1,12 @@
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\bin\Debug\net6.0\HttpProgramming.Model.deps.json
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\bin\Debug\net6.0\HttpProgramming.Model.dll
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\bin\Debug\net6.0\HttpProgramming.Model.pdb
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.csproj.AssemblyReference.cache
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.GeneratedMSBuildEditorConfig.editorconfig
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.AssemblyInfoInputs.cache
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.AssemblyInfo.cs
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.csproj.CoreCompileInputs.cache
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.dll
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\refint\HttpProgramming.Model.dll
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\HttpProgramming.Model.pdb
+A:\PRIBACIT\PI_DIS\lab6\HttpProgramming.Model\obj\Debug\net6.0\ref\HttpProgramming.Model.dll

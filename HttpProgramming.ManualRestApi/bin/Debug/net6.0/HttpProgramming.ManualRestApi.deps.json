@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HttpProgramming.ManualRestApi/1.0.0": {
+        "dependencies": {
+          "HttpProgramming.Model": "1.0.0"
+        },
+        "runtime": {
+          "HttpProgramming.ManualRestApi.dll": {}
+        }
+      },
+      "HttpProgramming.Model/1.0.0": {
+        "runtime": {
+          "HttpProgramming.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HttpProgramming.ManualRestApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpProgramming.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
